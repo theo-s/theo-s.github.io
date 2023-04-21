@@ -2,7 +2,7 @@
 title: "Statistics 215A"
 collection: teaching
 type: "Graduate Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2022-fall-teaching
 venue: "University of California, Berkeley, Department of Statistics"
 date: 2022-08-01
 ---
