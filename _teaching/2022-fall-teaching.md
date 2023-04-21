@@ -9,11 +9,3 @@ date: 2022-08-01
 
 Served as the GSI for Berkeley's graduate applied statistics course.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
