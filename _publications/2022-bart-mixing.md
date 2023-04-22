@@ -6,7 +6,7 @@ date: 2022-10-01
 venue: 'Working'
 ---
 
-[Read the paper on arxiv](https://arxiv.org/abs/2210.09352)\
+[arxiv link](https://arxiv.org/abs/2210.09352)\
 Bayesian Additive Regression Trees (BART) is a popular Bayesian non-parametric regression algorithm. The posterior is a distribution over sums of decision trees, and predictions are made by averaging approximate samples from the posterior. 
 The combination of strong predictive performance and the ability to provide uncertainty measures has led BART to be commonly used in the social sciences, biostatistics, and causal inference. 
 BART uses Markov Chain Monte Carlo (MCMC) to obtain approximate posterior samples over a parameterized space of sums of trees, but it has often been observed that the chains are slow to mix. 
